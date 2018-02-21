@@ -1,0 +1,11 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "Un ejemplo con la creacion de un modulo propio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo García F.",
+  "license": "ISC"
+}
